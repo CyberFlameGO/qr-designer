@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.34",
-    "@nuxt/content": "^1.13.1",
+    "@nuxt/content": "^2.7.2",
     "@nuxt/typescript-runtime": "^2.0.1",
     "@nuxtjs/axios": "^5.12.5",
     "@nuxtjs/firebase": "^7.4.1",
